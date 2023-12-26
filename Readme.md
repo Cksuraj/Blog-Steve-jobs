@@ -4,7 +4,7 @@ Welcome to my awesome blog page! 🚀 In this project, I've used Tailwind CSS wi
 
 ## Preview Link 
 
-* Click here [comeing soon]
+* Click here [https://cksuraj.github.io/Blog-Steve-jobs/]
 
 ## Output
 ![Alt text](<Screenshot (137).png>)
